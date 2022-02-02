@@ -2,7 +2,10 @@
 
 ### Hi there 👋
 
-- 🔭 Name: 金元明 Jin Yuanming 김원명
+- 🔭 Name: 
+    - Chinese: 金元明 
+    - English: Jin Yuanming / Hans Jin
+    - Korean: 김원명
 - 🌱 Student from BUPT, Master, major in AI/CV algorithm
 - 📫 How to reach me:
     - Email: hans_jin@163.com jinyuanming@bupt.edu.cn
