@@ -2,6 +2,13 @@
 
 ### Hi there 👋
 
+- 🔭 Name: 金元明 Jin Yuanming 김원명
+- 🌱 Student from BUPT, Master, major in AI/CV algorithm
+- 📫 How to reach me:
+    - Email: hans_jin@163.com jinyuanming@bupt.edu.cn
+    - Bilibili: 如我所愿Sowon
+    - Huya: 19649697
+
 <!--
 **HansJinJym/HansJinJym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
